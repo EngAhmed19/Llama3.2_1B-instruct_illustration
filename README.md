@@ -73,4 +73,4 @@ pmt = "Put yout text Here"
 result = llama_pipeline(pmt, "bullet points")
 print(result)
 ```
-** You can find more examples and detailed usage instructions in the Jupyter notebook provided in this repository. **
+**You can find more examples and detailed usage instructions in the Jupyter notebook provided in this repository.**
